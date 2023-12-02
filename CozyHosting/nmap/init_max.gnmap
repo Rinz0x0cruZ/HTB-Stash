@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Tue Nov 14 04:21:07 2023 as: nmap -sCV -p- --open -oA nmap/init_max 10.10.11.230
+Host: 10.10.11.230 (cozyhosting.htb)	Status: Up
+Host: 10.10.11.230 (cozyhosting.htb)	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//nginx 1.18.0 (Ubuntu)/
+# Nmap done at Tue Nov 14 04:23:52 2023 -- 1 IP address (1 host up) scanned in 165.41 seconds
